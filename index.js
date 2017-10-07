@@ -1,5 +1,5 @@
-var array3 = []
 function theBeatlesPlay(array1, array2){
+  var array3 = []
   for (var i = 0; i < array1.length; i++){
     array3.push(`${array1[i]} plays ${array2[i]}`)
   }

@@ -12,4 +12,5 @@ function johnLennonFacts(array){
     array.push(`${array[n]}`+"!!!")
     n++
   }
+  return
 }

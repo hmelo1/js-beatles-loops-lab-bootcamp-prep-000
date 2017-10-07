@@ -17,11 +17,10 @@ function johnLennonFacts(array){
 }
 function iLoveTheBeatles(num){
   var array = []
-  var n = 0
   do{
     array.push("I love the beatles!")
     //console.log("I love the beatles!")
-    n++
+    num++
   }while (n < num)
   return array
 }

@@ -7,7 +7,7 @@ function theBeatlesPlay(array1, array2){
 }
 function johnLennonFacts(array){
   var n = 0
-  var array2
+  var array2 = []
   while (n < array.length){
     //console.log(`${array[n]}`+"!!!")
     array2.push(`${array[n]}`+"!!!")

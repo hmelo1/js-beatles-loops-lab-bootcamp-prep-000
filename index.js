@@ -6,7 +6,7 @@ function theBeatlesPlay(array1, array2){
   return array3
 }
 function johnLennonFacts(array){
-  while (n < array.length){
+  while (var n = 0 < array.length){
     console.log(`${array}`+"!!!")
   }
 }

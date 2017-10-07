@@ -23,4 +23,5 @@ function iLoveTheBeatles(num){
     console.log("I love the beatles!")
     n++
   }while (n < 15)
+  return array
 }

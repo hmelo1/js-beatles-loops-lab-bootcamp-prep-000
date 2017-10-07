@@ -22,6 +22,6 @@ function iLoveTheBeatles(num){
     array.push("I love the beatles!")
     //console.log("I love the beatles!")
     num++
-  }while (num < 15)
+  }while (num < 14)
   return array
 }

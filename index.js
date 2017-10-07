@@ -3,4 +3,5 @@ function theBeatlesPlay(array1, array2){
     var array3 = []
     array3.push(`${array1[i]} plays ${array2[i]}`)
   }
+  return array3
 }

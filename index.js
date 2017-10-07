@@ -20,7 +20,7 @@ function iLoveTheBeatles(num){
   var array = []
   do{
     array.push("I love the beatles!")
-    num+=2
+    num++
     //console.log("I love the beatles!")
   }while (num < 15)
   return array
